@@ -6,9 +6,9 @@ In particular, GNU Octave nicely accommodates the need for treatment of matrices
 
 https://octave.org/doc/v4.0.1/Matrices.html
 
-In contrast, in Python, matrices are a special case (i.e., not a first class object); hence, when working with matrices in Python (a.k.a. Python matrices), the NumPy package (a scientific computing package that supports N-dimensional array objects) is often utilized. Likewise, in R, the function matrix() needs to be invoked and the arguments (e.g., m number of rows, n number of columns) need to be specified (i.e., not a first class object).
+In contrast, in Python, matrices are a special case (i.e., perhaps, not a first class object); hence, when working with matrices in Python (a.k.a. Python matrices), the NumPy package (a scientific computing package that supports N-dimensional array objects) is often utilized. Likewise, in R, the function matrix() needs to be invoked and the arguments (e.g., m number of rows, n number of columns) need to be specified (i.e., perhaps, not a first class object).
 
-In GNU Octave, ' is matrix transposition; this syntax is straightforward and intuitive. In R, the easiest way to effectuate matrix transposition is t(). In Python 3, assuming theArray is defined, the easiest way to effectuate matrix transposition is [*zip(*theArray)]. 
+In GNU Octave, ' is matrix transposition; this syntax is quite straightforward and intuitive. In R, the easiest way to effectuate matrix transposition is, perhaps, t(). In Python 3, assuming theArray is defined, the easiest way to effectuate matrix transposition is, perhaps, [*zip(*theArray)]. 
 
 Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML.
 
