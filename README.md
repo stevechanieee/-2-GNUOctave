@@ -12,11 +12,11 @@ In GNU Octave, ' is matrix transposition; this syntax is quite straightforward a
 
 For convenience, the Python version releases are provided in Table 1 below:
 
-Table 1: Python Release Version Information
+### Table 1: Python Release Version Information ###
 
 |Python Release Version|Version Release Date|
 |----------------------|--------------------|
-|Python 3.9.1          | 8 December 2020.   |
+|**Python 3.9.1**          | 8 December 2020.   |
 |Python 3.9.0          | 5 October 2020.    |
 |Python 3.8.7          | 21 December 2020.  |
 |Python 3.8.6          | 23 September 2020. |
@@ -159,6 +159,8 @@ Table 1: Python Release Version Information
 |Python 1.4            | 25 October 1996.   |
 
 *Source: https://www.python.org/doc/versions/*
+
+The most current Python release version is 3.9.1.
 
 Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML.
 
