@@ -162,5 +162,7 @@ For convenience, the Python version releases are provided in Table 1 below:
 
 The most current Python release version is 3.9.1.
 
-Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML.
+### Interim Findings ###
+
+Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML. Moreover, the GNU Octave documentation is very nicely oriented for sparse matrices (starting on page 635 of the online document: https://octave.org/octave.pdf).
 
