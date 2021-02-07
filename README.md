@@ -162,6 +162,31 @@ For convenience, the Python version releases are provided in Table 1 below:
 
 The most current Python release version is 3.9.1.
 
+Previously, GNU Octave-related experimentation was performed using Docker (e.g., https://github.com/epfl-sti/octave-x11-novnc-docker). Other repositories that provide a Docker image for GNU Octave include: https://hub.docker.com/r/mtmiller/octave.
+
+For convenience, the GNU Octave release version information is provided in Table 2 below:
+
+### Table 2: GNU Octave Release Version Information ###
+
+| GNU Octave Release Version | Release Date |
+|----------------------------|--------------|
+| **GNU Octave 6.1.0 Released**  | 26-Nov-20    |
+| GNU Octave 5.2.0 Released  | 31-Jan-20    |
+| GNU Octave 5.1.0 Released  | 1-Mar-19     |
+| GNU Octave 4.4.1 Released  | 9-Aug-18     |
+| GNU Octave 4.4.0 Released  | 30-Apr-18    |
+| GNU Octave 4.2.2 Released  | 13-Mar-18    |
+| GNU Octave 4.2.1 Released  | 24-Feb-17    |
+| GNU Octave 4.2.0 Released  | 14-Nov-16    |
+| GNU Octave 4.0.3 Released  | 2-Jul-16     |
+| GNU Octave 4.0.1 Released  | 23-Mar-16    |
+| GNU Octave 4.0.0 Released  | 29-May-15    |
+| GNU Octave 3.8.1 Released  | 4-Mar-14     |
+| GNU Octave 3.8.0 Released  | 31-Dec-13    |
+| GNU Octave 3.6.4 Released  | 21-Feb-13    |
+
+The current release version for GNU Octave is 6.1.0.
+
 ### Interim Findings ###
 
 Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML. Moreover, the GNU Octave documentation is very nicely oriented for sparse matrices (starting on page 635 of the online document: https://octave.org/octave.pdf).
