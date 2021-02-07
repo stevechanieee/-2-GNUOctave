@@ -164,7 +164,7 @@ The most current Python release version is 3.9.1.
 
 Previously, GNU Octave-related experimentation was performed using Docker (e.g., https://github.com/epfl-sti/octave-x11-novnc-docker). Other repositories that provide a Docker image for GNU Octave include: https://hub.docker.com/r/mtmiller/octave.
 
-Contemporary approaches for building container images, as Docker is deprecated as of Kubernetes v1.20, is to use container tools, such as Kaniko (an open source tool for building container images from a Dockerfile); It has been noted that Kaniko is more focused on building images in Kubernetes.
+Contemporary approaches for building container images, as Docker is deprecated as of Kubernetes v1.20, is to use container tools, such as Kaniko (an open source tool for building container images from a Dockerfile); It has been noted that Kaniko is more focused on building images in Kubernetes. Other container tools include Podman, Buildah, and Buildkit.
 
 *Source: https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833*
 
