@@ -164,7 +164,7 @@ The most current Python release version is 3.9.1.
 
 Previously, GNU Octave-related experimentation was performed using Docker (e.g., https://github.com/epfl-sti/octave-x11-novnc-docker). Other repositories that provide a Docker image for GNU Octave include: https://hub.docker.com/r/mtmiller/octave.
 
-For convenience, the GNU Octave release version information is provided in Table 2 below:
+For convenience, GNU Octave release version information is provided in Table 2 below:
 
 ### Table 2: GNU Octave Release Version Information ###
 
@@ -184,6 +184,8 @@ For convenience, the GNU Octave release version information is provided in Table
 | GNU Octave 3.8.1   | 4-Mar-14     |
 | GNU Octave 3.8.0   | 31-Dec-13    |
 | GNU Octave 3.6.4  | 21-Feb-13    |
+
+*Source: https://www.gnu.org/software/octave/news.html*
 
 The current release version for GNU Octave is 6.1.0.
 
