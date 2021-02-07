@@ -193,6 +193,8 @@ For convenience, GNU Octave release version information is provided in Table 2 b
 
 The current release version for GNU Octave is 6.1.0.
 
+There are also several opportunities for drop-in acceleration of GNU Octave (e.g., https://developer.nvidia.com/blog/drop-in-acceleration-gnu-octave/).
+
 ### Interim Findings ###
 
 Perhaps, GNU Octave can be construed as being more syntactically intuitive for ML. Moreover, the GNU Octave documentation is very nicely oriented for sparse matrices (starting on page 635 of the online document: https://octave.org/octave.pdf).
