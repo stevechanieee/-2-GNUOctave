@@ -170,20 +170,20 @@ For convenience, the GNU Octave release version information is provided in Table
 
 | GNU Octave Release Version | Release Date |
 |----------------------------|--------------|
-| **GNU Octave 6.1.0 Released**  | 26-Nov-20    |
-| GNU Octave 5.2.0 Released  | 31-Jan-20    |
-| GNU Octave 5.1.0 Released  | 1-Mar-19     |
-| GNU Octave 4.4.1 Released  | 9-Aug-18     |
-| GNU Octave 4.4.0 Released  | 30-Apr-18    |
-| GNU Octave 4.2.2 Released  | 13-Mar-18    |
-| GNU Octave 4.2.1 Released  | 24-Feb-17    |
-| GNU Octave 4.2.0 Released  | 14-Nov-16    |
-| GNU Octave 4.0.3 Released  | 2-Jul-16     |
-| GNU Octave 4.0.1 Released  | 23-Mar-16    |
-| GNU Octave 4.0.0 Released  | 29-May-15    |
-| GNU Octave 3.8.1 Released  | 4-Mar-14     |
-| GNU Octave 3.8.0 Released  | 31-Dec-13    |
-| GNU Octave 3.6.4 Released  | 21-Feb-13    |
+| **GNU Octave 6.1.0**  | 26-Nov-20    |
+| GNU Octave 5.2.0   | 31-Jan-20    |
+| GNU Octave 5.1.0   | 1-Mar-19     |
+| GNU Octave 4.4.1   | 9-Aug-18     |
+| GNU Octave 4.4.0   | 30-Apr-18    |
+| GNU Octave 4.2.2   | 13-Mar-18    |
+| GNU Octave 4.2.1   | 24-Feb-17    |
+| GNU Octave 4.2.0   | 14-Nov-16    |
+| GNU Octave 4.0.3   | 2-Jul-16     |
+| GNU Octave 4.0.1   | 23-Mar-16    |
+| GNU Octave 4.0.0   | 29-May-15    |
+| GNU Octave 3.8.1   | 4-Mar-14     |
+| GNU Octave 3.8.0   | 31-Dec-13    |
+| GNU Octave 3.6.4  | 21-Feb-13    |
 
 The current release version for GNU Octave is 6.1.0.
 
